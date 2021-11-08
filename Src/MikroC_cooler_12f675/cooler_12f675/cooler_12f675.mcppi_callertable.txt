@@ -1,0 +1,17 @@
+main
+	__CC2DW
+		____DoICP
+	fn_Init_Const
+		EEPROM_Read
+	pwm1
+interrupt
+	Ow_Reset
+		Delay_500us
+		Delay_80us
+	Ow_Write
+		Delay_80us
+		Delay_50us
+	Ow_Read
+		Delay_1us
+		Delay_50us
+	fn_Auto_Cooler
