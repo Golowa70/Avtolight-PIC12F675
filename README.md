@@ -1,1 +1,1 @@
-# Avtolight-PIC12F675
+# Cooler PIC12F675
